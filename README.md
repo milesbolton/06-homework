@@ -1,8 +1,8 @@
-<!-- Homework 06: Pandas and GitHub   -->
+# Homework 06: Pandas and GitHub  
 
-<!-- Complete the two notebooks in 06-homework.zipDownload 06-homework.zip
+## Complete the two notebooks in 06-homework.zipDownload 06-homework.zip
 
-Submit on GradeScope through a GitHub repo. The repo should include:
+### Submit on GradeScope through a GitHub repo. The repo should include:
 
 The two completed notebooks
 A README.md that describes the assignment (use markdown syntaxLinks to an external site. to make it look nice)
